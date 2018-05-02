@@ -28,9 +28,6 @@ The notes are in the python files explaining each step with extra notes on what 
 3. <a href="https://www.coursera.org/learn/python-network-data">Using Python to Access Web Data</a><br />
 4. <a href="https://www.coursera.org/learn/python-databases">Using Databases with Python</a>
 
-### Author of Notes and Answers
-Ritchie Ng, from the sunny island called Singapore.
-
 ### Awesome Lecturer
 Without him, I would not have been able to create these notes and answers.<br />
 Professor Charles Severance, University of Michigan.
