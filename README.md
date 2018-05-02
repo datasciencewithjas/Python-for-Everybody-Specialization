@@ -1,5 +1,9 @@
 # Python for Everybody Specialisation
 
+
+![](Certificate.png)
+
+
 ## Details on Specialisation
 This specialisation is by the University of Michigan on Coursera consisting of 4 courses and 1 capstone project.
 
